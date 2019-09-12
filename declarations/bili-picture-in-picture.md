@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BiliBili - 画中画
 // @description  开启画中画模式播放
-// @version      0.0.0
+// @version      0.1.0
 // @namespace    52cik
 // @copyright    2019+
 // @author       楼教主 <fe.52cik@gmail.com> (http://www.52cik.com/)
