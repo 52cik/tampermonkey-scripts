@@ -2,7 +2,7 @@
 // @name         BiliBili - 画中画
 // @namespace    https://github.com/52cik/tampermonkey-scripts
 // @icon         https://static.hdslb.com/images/favicon.ico
-// @version      0.1.0
+// @version      0.0.0
 // @description  开启画中画模式播放
 // @author       楼教主 <fe.52cik@gmail.com> (http://www.52cik.com/)
 // @match        https://www.bilibili.com/watchlater/*
