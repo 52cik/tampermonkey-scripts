@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BiliBili - 画中画
 // @description  开启画中画模式播放
-// @version      0.1.0
+// @version      0.1.1
 // @namespace    52cik
 // @copyright    2019+
 // @author       楼教主 <fe.52cik@gmail.com> (http://www.52cik.com/)
@@ -14,6 +14,7 @@
 // @require      https://52cik.github.io/tampermonkey-scripts/scripts/bili-picture-in-picture.js?0.1.0
 // @match        https://www.bilibili.com/watchlater/*
 // @match        https://www.bilibili.com/bangumi/play/*
+// @match        https://www.bilibili.com/video/*
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
