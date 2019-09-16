@@ -7,7 +7,8 @@
   // esc 重新开始
   document.body.addEventListener('keydown', (e) => {
     if (e.keyCode === 27) {
-      const el = [...document.querySelectorAll('.js-restart, .js-restart-screen')][0];
+      // 优先级: 不及格重试，结束后本课重试，测试中重新开始
+      const el = [...document.querySelectorAll('.js-continue-button, .js-restart, .js-restart-screen')][0];
       if (el) {
         el.click();
       }
